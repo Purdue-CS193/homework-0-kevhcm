@@ -4,7 +4,7 @@
 
 - Learning useful and helpful tool for the future
 - Very cool instructure
-- 
+- Short and fun classes
 
 ```
              ________________________________________________
